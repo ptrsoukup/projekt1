@@ -1,0 +1,2 @@
+SERVERPATH="server2"
+echo $SERVERPATH
